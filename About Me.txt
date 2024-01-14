@@ -1,0 +1,10 @@
+Bachelor’s degree with experience in Computer Science or equivalent streams
+✓ Knowledge on Windows / Unix OS
+✓ Basics of Storage Technology – NAS, SAN, Arrays, Filers, etc. will be added advantage
+✓ Programming language is must. Knowledge of Python, Perl, Shell, etc. will be highly preferred.
+✓ Experience working on automation project will be an added advantage
+✓ Understanding of QA concepts like Black box testing, white box testing, regression testing, stress testing etc
+is preferred
+✓ Excellent analytical, debugging, problem-solving and root-cause analysis skills
+✓ Attitude for passionately working for Software & Quality Engineering
+✓ Detect, report, and track software defects
